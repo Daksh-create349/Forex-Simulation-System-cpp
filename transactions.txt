@@ -1,0 +1,12 @@
+Date: Thu Mar  5 08:42:31 2026
+From: USD
+To: INR
+Amount: 3
+Converted: 249
+-------------------------
+Date: Thu Mar  5 08:46:48 2026
+From: AUD
+To: USD
+Amount: 2
+Converted Amount: 1.5694
+----------------------------------
